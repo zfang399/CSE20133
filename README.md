@@ -8,3 +8,9 @@ Homework 2
     Output a multiplication table, given the number of rows and columns
 Homework 3
 ------------------------------
+### 1. Average<br />
+    Find the average of all numbers from the input
+### 2. Ascii<br />
+    Print all the non-blankspace ascii characters and their values
+### 3. Rot13.5<br />
+    Encode input strings using a special encoding method
