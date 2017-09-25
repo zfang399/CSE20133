@@ -14,7 +14,7 @@ Homework 3
     Print all the non-blankspace ascii characters and their values
 ### 3. Rot13.5<br />
     Encode input strings using a special encoding method
-HomeWork 4
+Homework 4
 ------------------------------
 ### 1. Text Filter<br />
     Filter to print the alphanumeric chars, apostrophe and hyphen. Print alphabetic chars in uppercase.
