@@ -24,3 +24,8 @@ Homework 5
 ------------------------------
 ### 1. Argc & Argv<br />
     The multiplication table assignment in Homework2 inputted through argc&argv
+### 2. Random Number Generator<br />
+    Generate a certain number of random numbers based on the user input
+    User input number of numebrs and maximum number range
+### 3. Stats<br />
+    Calculate the mean, min, max, sum, and standard deviation of the input numbers
