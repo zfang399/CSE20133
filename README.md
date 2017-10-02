@@ -20,3 +20,7 @@ Homework 4
     Filter to print the alphanumeric chars, apostrophe and hyphen. Print alphabetic chars in uppercase.
 ### 2. Sort the chars of each line<br />
     Used selection sort to sort the chars of each line.
+Homework 5
+------------------------------
+### 1. Argc & Argv<br />
+    The multiplication table assignment in Homework2 inputted through argc&argv
