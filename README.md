@@ -3,17 +3,17 @@ CSE20133
 Homework 2
 ------------------------------
 ### 1. Factor<br />
-    Output all the factors of the input number
+    Output all the factors of the input number.
 ### 2. Multiplication Table<br />
-    Output a multiplication table, given the number of rows and columns
+    Output a multiplication table, given the number of rows and columns.
 Homework 3
 ------------------------------
 ### 1. Average<br />
-    Find the average of all numbers from the input
+    Find the average of all numbers from the input.
 ### 2. Ascii<br />
-    Print all the non-blankspace ascii characters and their values
+    Print all the non-blankspace ascii characters and their values.
 ### 3. Rot13.5<br />
-    Encode input strings using a special encoding method
+    Encode input strings using a special encoding method.
 Homework 4
 ------------------------------
 ### 1. Text Filter<br />
@@ -23,9 +23,9 @@ Homework 4
 Homework 5
 ------------------------------
 ### 1. Argc & Argv<br />
-    The multiplication table assignment in Homework2 inputted through argc&argv
+    The multiplication table assignment in Homework2 inputted through argc&argv.
 ### 2. Random Number Generator<br />
-    Generate a certain number of random numbers based on the user input
-    User input number of numebrs and maximum number range
+    Generate a certain number of random numbers based on the user input.
+    User input number of numebrs and maximum number range.
 ### 3. Stats<br />
-    Calculate the mean, min, max, sum, and standard deviation of the input numbers
+    Calculate the mean, min, max, sum, and standard deviation of the input numbers.
