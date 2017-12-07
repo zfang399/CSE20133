@@ -1,0 +1,32 @@
+Project Description:
+    Our project implements the game of Gomoku, allowing two players to play
+    against each other.
+
+In what way is your project appropriate for this class?
+  We used various techniques that we learned this this class, including
+  Object-oriented programming, functions, loops and conditions, makefile,
+  pointers, interaction with users. The project relates closely to the
+  concepts that we have covered in the class.
+
+In creating your project, explain what you learned:
+  We learned that collaborating on a project needs every member to be able
+  to write easy-to-understand codes, and commenting is a very good coding
+  practice which makes it much easier when we are connecting our parts.
+  In addition, ideas that seem very easy to implement can sometimes be very
+  tricky. For example, when we were trying to show the borders of the board,
+  it was easy to think of using dashes to surround the board, but when we
+  actually wrote the codes, we realized that the indices are hard to keep
+  track of and these indices must be consistent in every one of our files.
+
+If you had more time and/or knowledge, what would you do to improve?
+  If we had more time and/or knowledge, we would:
+  (1) Implement a single player mode and create an AI.
+  (2) Add a Graphic User Interface for the program to make it more visually
+      appealing.
+
+If someone in the future wanted to attempt this same project, what advice
+would you give them, and why?
+  We would suggest that all the group members should work closely together
+  and write high-quality codes, and make sure everyone understands each
+  part of the project. We would also suggest them to make a detailed plan
+  before actually writing the programs.
